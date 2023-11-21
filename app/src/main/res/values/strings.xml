@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Survey</string>
+    <string name="title_for_menu">Тест: \n Лучший язык программирования</string>
+    <string name="button_for_menu">Начать</string>
+    <string name="next_questions">Следующий вопрос</string>
+    <string name="title_questions1">Самый популярный язык программирования:</string>
+    <string name="c">c++</string>
+    <string name="python">python</string>
+    <string name="java_script">java script</string>
+    <string name="java">Java</string>
+    <string name="title_question2">Самый используемый:</string>
+    <string name="_sharp">c#</string>
+    <string name="rust">rust</string>
+    <string name="result">Подвести итог</string>
+    <string name="title">Чтобы вы не ответили лучшим останеться только JAVA!!</string>
+    <string name="result_string">Результат:</string>
+</resources>
